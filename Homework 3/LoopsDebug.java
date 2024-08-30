@@ -16,6 +16,9 @@ public class Main {
         //here's a hint
         for (int i = 0; i < ?; i++){
 
+
+
+
         }
 
         //P3: Ask the user for a number, and then add together every OTHER digit (starting from 1)
